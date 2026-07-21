@@ -1,0 +1,44 @@
+﻿dataset,molecule_no,field,issue_type,severity,observed_value,expected_rule
+696_features,113,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,113,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,114,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,114,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,115,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,115,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,116,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,116,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,117,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,117,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,118,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,118,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,119,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,119,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,120,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,120,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,193,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,193,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,194,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,194,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,584,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,584,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,642,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,642,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,643,Dielectic Constant (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+696_features,643,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,9,ALL_FEATURES,整行数据与其他样本完全重复,WARNING,duplicate row,可能是相同实验记录，也可能是重复样本；需结合原始分子ID核查
+94_features,113,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,114,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,115,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,116,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,117,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,118,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,119,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,120,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,193,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,194,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,584,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,586,ALL_FEATURES,整行数据与其他样本完全重复,WARNING,duplicate row,可能是相同实验记录，也可能是重复样本；需结合原始分子ID核查
+94_features,630,ALL_FEATURES,整行数据与其他样本完全重复,WARNING,duplicate row,可能是相同实验记录，也可能是重复样本；需结合原始分子ID核查
+94_features,642,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,643,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息,WARNING,0.0,返回原始溶剂名称核查；不自动删除
+94_features,854,ALL_FEATURES,整行数据与其他样本完全重复,WARNING,duplicate row,可能是相同实验记录，也可能是重复样本；需结合原始分子ID核查

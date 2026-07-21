@@ -1,0 +1,26 @@
+{
+  "json_records": 929,
+  "model_samples": 856,
+  "mapping_unique_model_row": 856,
+  "mapping_unique_old_index": 856,
+  "spatial_rows": 856,
+  "rigid_bond_method": [
+    "colleague_axial_method",
+    "rdkit_fallback_after_AssertionError",
+    "rdkit_fallback_after_KekulizeException"
+  ],
+  "six_plus_spatial_shape": [
+    856,
+    21
+  ],
+  "feature94_plus_spatial_shape": [
+    856,
+    104
+  ],
+  "feature696_plus_spatial_shape": [
+    856,
+    706
+  ],
+  "all_targets_aligned": true,
+  "all_wavelengths_aligned": true
+}

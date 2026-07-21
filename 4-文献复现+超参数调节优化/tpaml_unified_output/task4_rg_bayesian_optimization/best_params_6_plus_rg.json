@@ -1,0 +1,22 @@
+{
+  "best_cv_mse_ln": 1.1657824294330008,
+  "best_params": {
+    "n_estimators": 517,
+    "learning_rate": 0.03056615251594733,
+    "max_depth": 8,
+    "min_child_weight": 1.2464089098341038,
+    "subsample": 0.6282410960594094,
+    "colsample_bytree": 0.5106527077425275,
+    "reg_alpha": 0.00014211983296353136,
+    "reg_lambda": 0.00012810216725359753,
+    "gamma": 1.0641499535917179e-06,
+    "objective": "reg:squarederror",
+    "booster": "gbtree",
+    "tree_method": "hist",
+    "n_jobs": -1,
+    "verbosity": 0
+  },
+  "n_trials": 50,
+  "optimization_split_seed": 0,
+  "cv_splits": 5
+}

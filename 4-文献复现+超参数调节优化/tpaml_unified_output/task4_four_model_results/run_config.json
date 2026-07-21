@@ -1,0 +1,61 @@
+{
+  "data_file": "model_input_6_plus_spatial_856.csv",
+  "n_samples": 856,
+  "train_size": 728,
+  "test_size": 128,
+  "n_runs": 240,
+  "models": {
+    "M0_原始6特征": [
+      "Conju-Max-Distance",
+      "Wavelength (Exp nm)",
+      "ET(30) (Solvent)",
+      "PEOE-Charge-Max",
+      "Atomic-LogP-Min",
+      "Atomic-MR-Max"
+    ],
+    "M1_原始6特征+rg": [
+      "Conju-Max-Distance",
+      "Wavelength (Exp nm)",
+      "ET(30) (Solvent)",
+      "PEOE-Charge-Max",
+      "Atomic-LogP-Min",
+      "Atomic-MR-Max",
+      "rg"
+    ],
+    "M2_原始6特征+rg+asphericity": [
+      "Conju-Max-Distance",
+      "Wavelength (Exp nm)",
+      "ET(30) (Solvent)",
+      "PEOE-Charge-Max",
+      "Atomic-LogP-Min",
+      "Atomic-MR-Max",
+      "rg",
+      "asphericity"
+    ],
+    "M3_原始6特征+rg+asphericity+rg_mw_ratio": [
+      "Conju-Max-Distance",
+      "Wavelength (Exp nm)",
+      "ET(30) (Solvent)",
+      "PEOE-Charge-Max",
+      "Atomic-LogP-Min",
+      "Atomic-MR-Max",
+      "rg",
+      "asphericity",
+      "rg_mw_ratio"
+    ]
+  },
+  "best_model_by_mean_R2": "M0_原始6特征",
+  "xgb_params": {
+    "n_estimators": 150,
+    "learning_rate": 0.025,
+    "max_depth": 13,
+    "verbosity": 0,
+    "booster": "gbtree",
+    "reg_alpha": 0.0011264943664564006,
+    "reg_lambda": 0.0005812013668175591,
+    "gamma": 0.004633404248456811,
+    "subsample": 0.5,
+    "objective": "reg:squarederror",
+    "n_jobs": -1
+  }
+}

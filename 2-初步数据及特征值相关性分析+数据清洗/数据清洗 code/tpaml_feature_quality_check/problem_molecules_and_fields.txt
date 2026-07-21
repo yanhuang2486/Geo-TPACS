@@ -1,0 +1,43 @@
+[696_features] 分子编号 113 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 113 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 114 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 114 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 115 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 115 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 116 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 116 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 117 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 117 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 118 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 118 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 119 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 119 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 120 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 120 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 193 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 193 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 194 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 194 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 584 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 584 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 642 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 642 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 643 | 字段：Dielectic Constant (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[696_features] 分子编号 643 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 9 | 字段：ALL_FEATURES | WARNING | 整行数据与其他样本完全重复 | 观测值：duplicate row
+[94_features] 分子编号 113 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 114 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 115 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 116 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 117 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 118 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 119 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 120 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 193 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 194 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 584 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 586 | 字段：ALL_FEATURES | WARNING | 整行数据与其他样本完全重复 | 观测值：duplicate row
+[94_features] 分子编号 630 | 字段：ALL_FEATURES | WARNING | 整行数据与其他样本完全重复 | 观测值：duplicate row
+[94_features] 分子编号 642 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 643 | 字段：ET(30) (Solvent) | WARNING | 溶剂参数为0，可能代表未知或缺失溶剂信息 | 观测值：0.0
+[94_features] 分子编号 854 | 字段：ALL_FEATURES | WARNING | 整行数据与其他样本完全重复 | 观测值：duplicate row

@@ -1,0 +1,326 @@
+﻿dataset,molecule_no,error_count,warning_count,problem_fields,issue_types
+696_features,808,0,33,BertzCT; Chi0; Chi0n; Chi0v; Chi1; Chi1n; Chi1v; Chi2n; Chi2v; Chi3n; Chi3v; Chi4n; Chi4v; Conju-Branch-Num; Conju-Branch-Ratio; EState_VSA4; EState_VSA5; ExactMolWt; HeavyAtomCount; HeavyAtomMolWt; Kappa1; Kappa2; LabuteASA; MolLogP; MolMR; MolWt; NumRotatableBonds; NumValenceElectrons; PEOE_VSA7; RingCount; SMR_VSA5; SlogP_VSA5; VSA_EState4,统计极端值
+696_features,804,0,19,BertzCT; Chi0n; Chi0v; Chi1n; Chi1v; Chi2n; Chi2v; Chi3n; Chi3v; Chi4n; Chi4v; EState_VSA4; HeavyAtomCount; NumRotatableBonds; PEOE_VSA7; RingCount; SMR_VSA5; SlogP_VSA5; VSA_EState4,统计极端值
+94_features,803,0,15,Apperant-Elec-Count-NegativeDisCoef; Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-GradSum; Atomic-LogP-LaplaceSum; Atomic-LogP-NegativeDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-GradSum; Atomic-MR-NegativeDisCoef; Atomic-MR-PositiveDisCoef; Conju-Branch-Ratio; EState-Indice-GradSum; EState-Indice-NegativeDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-GradSum; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,804,0,14,Apperant-Elec-Count-NegativeDisCoef; Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-GradSum; Atomic-LogP-LaplaceSum; Atomic-LogP-NegativeDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-GradSum; Atomic-MR-NegativeDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-GradSum; EState-Indice-NegativeDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-GradSum; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,808,0,14,Apperant-Elec-Count-NegativeDisCoef; Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-GradSum; Atomic-LogP-LaplaceSum; Atomic-LogP-NegativeDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-NegativeDisCoef; Atomic-MR-PositiveDisCoef; Conju-Branch-Ratio; EState-Indice-GradSum; EState-Indice-NegativeDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-GradSum; PEOE-Charge-PositiveDisCoef,统计极端值
+696_features,803,0,12,BertzCT; Chi3n; Chi3v; Chi4n; Chi4v; Conju-Branch-Ratio; EState_VSA4; NumRotatableBonds; RingCount; SMR_VSA5; SlogP_VSA5; VSA_EState4,统计极端值
+94_features,659,0,12,Apperant-Elec-Count-NegativeDisCoef; Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-GradSum; Atomic-LogP-LaplaceSum; Atomic-LogP-NegativeDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-NegativeDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-NegativeDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-NegativeDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+696_features,42,0,9,Conju-Branch-Num; Conju-Branch-Ratio; EState_VSA5; Kappa3; NumRotatableBonds; SMR_VSA5; SlogP_VSA5; VSA_EState1; VSA_EState7,统计极端值
+696_features,40,0,7,EState_VSA5; Kappa3; NumRotatableBonds; SMR_VSA5; SlogP_VSA5; VSA_EState1; VSA_EState7,统计极端值
+94_features,213,0,6,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; Conju-Branch-Ratio; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,643,0,6,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; ET(30) (Solvent); PEOE-Charge-PositiveDisCoef,溶剂参数为0，可能代表未知或缺失溶剂信息; 统计极端值
+94_features,55,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,217,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,317,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,469,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,619,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,627,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,658,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,806,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,807,0,5,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+696_features,41,0,4,Conju-Branch-Num; Conju-Branch-Ratio; SMR_VSA5; VSA_EState1,统计极端值
+696_features,508,0,4,Conju-Branch-Num; Conju-Branch-Ratio; VSA_EState3; VSA_EState5,统计极端值
+696_features,723,0,4,EState_VSA5; SlogP_VSA8; VSA_EState3; VSA_EState8,统计极端值
+94_features,316,0,4,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,494,0,4,Atomic-LogP-Min; Conju-Branch-Ratio; EState-Indice-GradSum; EState-Indice-PositiveDisCoef,统计极端值
+94_features,581,0,4,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef,统计极端值
+94_features,818,0,4,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef; PEOE-Charge-PositiveDisCoef,统计极端值
+696_features,39,0,3,EState_VSA5; SMR_VSA5; VSA_EState1,统计极端值
+696_features,101,0,3,EState_VSA3; VSA_EState1; VSA_EState3,统计极端值
+696_features,117,0,3,Dielectic Constant (Solvent); ET(30) (Solvent); VSA_EState5,溶剂参数为0，可能代表未知或缺失溶剂信息; 统计极端值
+696_features,118,0,3,Dielectic Constant (Solvent); ET(30) (Solvent); VSA_EState5,溶剂参数为0，可能代表未知或缺失溶剂信息; 统计极端值
+696_features,193,0,3,Conju-Branch-Ratio; Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息; 统计极端值
+696_features,194,0,3,Dielectic Constant (Solvent); ET(30) (Solvent); VSA_EState5,溶剂参数为0，可能代表未知或缺失溶剂信息; 统计极端值
+696_features,494,0,3,Conju-Branch-Ratio; EState_VSA3; VSA_EState2,统计极端值
+696_features,569,0,3,Conju-Branch-Num; Conju-Branch-Ratio; VSA_EState5,统计极端值
+696_features,722,0,3,EState_VSA5; SlogP_VSA8; VSA_EState3,统计极端值
+696_features,736,0,3,Conju-Branch-Num; Conju-Branch-Ratio; VSA_EState1,统计极端值
+94_features,122,0,3,Apperant-Elec-Count-PositiveDisCoef; Atomic-LogP-PositiveDisCoef; Atomic-MR-PositiveDisCoef,统计极端值
+696_features,55,0,2,EState_VSA5; SMR_VSA5,统计极端值
+696_features,97,0,2,VSA_EState3; VSA_EState5,统计极端值
+696_features,100,0,2,VSA_EState1; VSA_EState3,统计极端值
+696_features,113,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,114,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,115,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,116,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,119,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,120,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,144,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,189,0,2,VSA_EState1; VSA_EState3,统计极端值
+696_features,213,0,2,Conju-Branch-Ratio; EState_VSA5,统计极端值
+696_features,259,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,260,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,261,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,310,0,2,VSA_EState3; VSA_EState5,统计极端值
+696_features,313,0,2,VSA_EState3; VSA_EState5,统计极端值
+696_features,465,0,2,VSA_EState3; VSA_EState5,统计极端值
+696_features,506,0,2,VSA_EState3; VSA_EState5,统计极端值
+696_features,509,0,2,VSA_EState3; VSA_EState5,统计极端值
+696_features,511,0,2,VSA_EState3; VSA_EState5,统计极端值
+696_features,546,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,547,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,548,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,552,0,2,Conju-Branch-Ratio; VSA_EState5,统计极端值
+696_features,568,0,2,Conju-Branch-Ratio; VSA_EState5,统计极端值
+696_features,584,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,590,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,612,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,614,0,2,EState_VSA5; SMR_VSA5,统计极端值
+696_features,642,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,643,0,2,Dielectic Constant (Solvent); ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+696_features,644,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,645,0,2,VSA_EState1; VSA_EState5,统计极端值
+696_features,721,0,2,SlogP_VSA8; VSA_EState3,统计极端值
+696_features,735,0,2,Conju-Branch-Ratio; VSA_EState1,统计极端值
+696_features,752,0,2,Conju-Branch-Num; VSA_EState1,统计极端值
+696_features,753,0,2,Conju-Branch-Num; VSA_EState1,统计极端值
+696_features,806,0,2,EState_VSA5; SMR_VSA5,统计极端值
+696_features,846,0,2,VSA_EState3; VSA_EState5,统计极端值
+94_features,97,0,2,Atomic-MR-PositiveDisCoef; EState-Indice-PositiveDisCoef,统计极端值
+94_features,119,0,2,ET(30) (Solvent); PEOE-Charge-NegativeDisCoef-PairMean,溶剂参数为0，可能代表未知或缺失溶剂信息; 统计极端值
+94_features,193,0,2,Conju-Branch-Ratio; ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息; 统计极端值
+94_features,721,0,2,Atomic-LogP-NegativeDisCoef; Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,722,0,2,Atomic-LogP-NegativeDisCoef; Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,723,0,2,Atomic-LogP-NegativeDisCoef; Atomic-LogP-PositiveDisCoef,统计极端值
+696_features,16,0,1,VSA_EState3,统计极端值
+696_features,56,0,1,VSA_EState5,统计极端值
+696_features,57,0,1,VSA_EState5,统计极端值
+696_features,58,0,1,VSA_EState5,统计极端值
+696_features,59,0,1,VSA_EState5,统计极端值
+696_features,60,0,1,VSA_EState5,统计极端值
+696_features,61,0,1,VSA_EState5,统计极端值
+696_features,62,0,1,VSA_EState5,统计极端值
+696_features,63,0,1,VSA_EState5,统计极端值
+696_features,64,0,1,VSA_EState5,统计极端值
+696_features,65,0,1,VSA_EState5,统计极端值
+696_features,83,0,1,VSA_EState3,统计极端值
+696_features,84,0,1,VSA_EState3,统计极端值
+696_features,90,0,1,VSA_EState5,统计极端值
+696_features,91,0,1,VSA_EState5,统计极端值
+696_features,92,0,1,VSA_EState5,统计极端值
+696_features,93,0,1,VSA_EState5,统计极端值
+696_features,94,0,1,VSA_EState5,统计极端值
+696_features,95,0,1,VSA_EState5,统计极端值
+696_features,96,0,1,VSA_EState5,统计极端值
+696_features,124,0,1,VSA_EState5,统计极端值
+696_features,125,0,1,VSA_EState5,统计极端值
+696_features,127,0,1,VSA_EState5,统计极端值
+696_features,128,0,1,VSA_EState5,统计极端值
+696_features,131,0,1,VSA_EState5,统计极端值
+696_features,137,0,1,VSA_EState5,统计极端值
+696_features,140,0,1,VSA_EState5,统计极端值
+696_features,141,0,1,EState_VSA5,统计极端值
+696_features,142,0,1,VSA_EState5,统计极端值
+696_features,143,0,1,VSA_EState5,统计极端值
+696_features,155,0,1,VSA_EState1,统计极端值
+696_features,156,0,1,VSA_EState1,统计极端值
+696_features,157,0,1,VSA_EState1,统计极端值
+696_features,158,0,1,VSA_EState1,统计极端值
+696_features,171,0,1,Conju-Branch-Ratio,统计极端值
+696_features,178,0,1,VSA_EState3,统计极端值
+696_features,181,0,1,VSA_EState3,统计极端值
+696_features,184,0,1,VSA_EState5,统计极端值
+696_features,185,0,1,VSA_EState5,统计极端值
+696_features,187,0,1,VSA_EState3,统计极端值
+696_features,196,0,1,VSA_EState3,统计极端值
+696_features,201,0,1,VSA_EState1,统计极端值
+696_features,216,0,1,VSA_EState3,统计极端值
+696_features,217,0,1,VSA_EState3,统计极端值
+696_features,232,0,1,VSA_EState5,统计极端值
+696_features,237,0,1,VSA_EState5,统计极端值
+696_features,258,0,1,VSA_EState5,统计极端值
+696_features,273,0,1,VSA_EState3,统计极端值
+696_features,274,0,1,VSA_EState3,统计极端值
+696_features,284,0,1,VSA_EState5,统计极端值
+696_features,285,0,1,VSA_EState5,统计极端值
+696_features,296,0,1,VSA_EState5,统计极端值
+696_features,297,0,1,VSA_EState5,统计极端值
+696_features,308,0,1,VSA_EState5,统计极端值
+696_features,309,0,1,VSA_EState5,统计极端值
+696_features,311,0,1,VSA_EState5,统计极端值
+696_features,312,0,1,VSA_EState5,统计极端值
+696_features,318,0,1,VSA_EState3,统计极端值
+696_features,320,0,1,VSA_EState3,统计极端值
+696_features,322,0,1,VSA_EState3,统计极端值
+696_features,323,0,1,VSA_EState5,统计极端值
+696_features,325,0,1,VSA_EState5,统计极端值
+696_features,326,0,1,VSA_EState5,统计极端值
+696_features,327,0,1,VSA_EState5,统计极端值
+696_features,328,0,1,VSA_EState5,统计极端值
+696_features,334,0,1,VSA_EState5,统计极端值
+696_features,353,0,1,VSA_EState5,统计极端值
+696_features,356,0,1,VSA_EState5,统计极端值
+696_features,358,0,1,VSA_EState5,统计极端值
+696_features,360,0,1,VSA_EState5,统计极端值
+696_features,362,0,1,VSA_EState1,统计极端值
+696_features,368,0,1,VSA_EState5,统计极端值
+696_features,369,0,1,VSA_EState5,统计极端值
+696_features,380,0,1,Conju-Branch-Ratio,统计极端值
+696_features,384,0,1,Conju-Branch-Ratio,统计极端值
+696_features,385,0,1,Conju-Branch-Ratio,统计极端值
+696_features,387,0,1,VSA_EState5,统计极端值
+696_features,388,0,1,VSA_EState5,统计极端值
+696_features,414,0,1,VSA_EState3,统计极端值
+696_features,416,0,1,VSA_EState3,统计极端值
+696_features,418,0,1,VSA_EState3,统计极端值
+696_features,420,0,1,VSA_EState3,统计极端值
+696_features,426,0,1,VSA_EState3,统计极端值
+696_features,427,0,1,VSA_EState3,统计极端值
+696_features,429,0,1,VSA_EState3,统计极端值
+696_features,446,0,1,Conju-Branch-Ratio,统计极端值
+696_features,463,0,1,VSA_EState5,统计极端值
+696_features,464,0,1,VSA_EState5,统计极端值
+696_features,466,0,1,Conju-Branch-Ratio,统计极端值
+696_features,468,0,1,Conju-Branch-Ratio,统计极端值
+696_features,471,0,1,VSA_EState5,统计极端值
+696_features,472,0,1,VSA_EState5,统计极端值
+696_features,473,0,1,VSA_EState5,统计极端值
+696_features,474,0,1,VSA_EState5,统计极端值
+696_features,475,0,1,VSA_EState5,统计极端值
+696_features,479,0,1,VSA_EState1,统计极端值
+696_features,482,0,1,VSA_EState1,统计极端值
+696_features,493,0,1,Conju-Branch-Ratio,统计极端值
+696_features,495,0,1,Conju-Branch-Ratio,统计极端值
+696_features,505,0,1,VSA_EState5,统计极端值
+696_features,507,0,1,VSA_EState3,统计极端值
+696_features,510,0,1,VSA_EState5,统计极端值
+696_features,516,0,1,Conju-Branch-Ratio,统计极端值
+696_features,520,0,1,VSA_EState5,统计极端值
+696_features,521,0,1,VSA_EState5,统计极端值
+696_features,522,0,1,VSA_EState5,统计极端值
+696_features,534,0,1,VSA_EState3,统计极端值
+696_features,537,0,1,VSA_EState5,统计极端值
+696_features,538,0,1,VSA_EState5,统计极端值
+696_features,539,0,1,VSA_EState5,统计极端值
+696_features,540,0,1,VSA_EState5,统计极端值
+696_features,541,0,1,VSA_EState1,统计极端值
+696_features,543,0,1,VSA_EState1,统计极端值
+696_features,544,0,1,VSA_EState1,统计极端值
+696_features,545,0,1,VSA_EState1,统计极端值
+696_features,549,0,1,VSA_EState5,统计极端值
+696_features,550,0,1,VSA_EState5,统计极端值
+696_features,551,0,1,VSA_EState5,统计极端值
+696_features,557,0,1,VSA_EState1,统计极端值
+696_features,558,0,1,VSA_EState1,统计极端值
+696_features,566,0,1,VSA_EState5,统计极端值
+696_features,571,0,1,Conju-Branch-Ratio,统计极端值
+696_features,579,0,1,VSA_EState5,统计极端值
+696_features,587,0,1,VSA_EState3,统计极端值
+696_features,615,0,1,VSA_EState1,统计极端值
+696_features,616,0,1,VSA_EState1,统计极端值
+696_features,617,0,1,VSA_EState1,统计极端值
+696_features,618,0,1,VSA_EState1,统计极端值
+696_features,638,0,1,VSA_EState3,统计极端值
+696_features,641,0,1,VSA_EState1,统计极端值
+696_features,659,0,1,SMR_VSA7,统计极端值
+696_features,669,0,1,Conju-Branch-Ratio,统计极端值
+696_features,672,0,1,VSA_EState5,统计极端值
+696_features,673,0,1,VSA_EState5,统计极端值
+696_features,674,0,1,VSA_EState5,统计极端值
+696_features,677,0,1,VSA_EState1,统计极端值
+696_features,707,0,1,Conju-Branch-Num,统计极端值
+696_features,716,0,1,VSA_EState5,统计极端值
+696_features,717,0,1,VSA_EState5,统计极端值
+696_features,719,0,1,VSA_EState5,统计极端值
+696_features,724,0,1,VSA_EState5,统计极端值
+696_features,725,0,1,VSA_EState5,统计极端值
+696_features,726,0,1,VSA_EState5,统计极端值
+696_features,734,0,1,Conju-Branch-Ratio,统计极端值
+696_features,737,0,1,VSA_EState1,统计极端值
+696_features,741,0,1,VSA_EState5,统计极端值
+696_features,742,0,1,VSA_EState5,统计极端值
+696_features,743,0,1,VSA_EState5,统计极端值
+696_features,748,0,1,VSA_EState1,统计极端值
+696_features,750,0,1,VSA_EState1,统计极端值
+696_features,751,0,1,VSA_EState1,统计极端值
+696_features,754,0,1,VSA_EState1,统计极端值
+696_features,755,0,1,VSA_EState1,统计极端值
+696_features,756,0,1,VSA_EState1,统计极端值
+696_features,763,0,1,VSA_EState1,统计极端值
+696_features,782,0,1,VSA_EState5,统计极端值
+696_features,783,0,1,VSA_EState5,统计极端值
+696_features,784,0,1,VSA_EState5,统计极端值
+696_features,785,0,1,VSA_EState5,统计极端值
+696_features,786,0,1,VSA_EState5,统计极端值
+696_features,787,0,1,VSA_EState5,统计极端值
+696_features,792,0,1,VSA_EState1,统计极端值
+696_features,796,0,1,VSA_EState5,统计极端值
+696_features,798,0,1,VSA_EState5,统计极端值
+696_features,807,0,1,SMR_VSA5,统计极端值
+696_features,843,0,1,VSA_EState5,统计极端值
+696_features,844,0,1,VSA_EState5,统计极端值
+696_features,845,0,1,VSA_EState5,统计极端值
+696_features,851,0,1,VSA_EState5,统计极端值
+94_features,9,0,1,ALL_FEATURES,整行数据与其他样本完全重复
+94_features,41,0,1,Conju-Branch-Ratio,统计极端值
+94_features,42,0,1,Conju-Branch-Ratio,统计极端值
+94_features,113,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,114,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,115,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,116,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,117,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,118,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,120,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,121,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,123,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,171,0,1,Conju-Branch-Ratio,统计极端值
+94_features,175,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,179,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,182,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,194,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,314,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,321,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,351,0,1,Atomic-LogP-NegativeDisCoef-PairMean,统计极端值
+94_features,377,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,380,0,1,Conju-Branch-Ratio,统计极端值
+94_features,384,0,1,Conju-Branch-Ratio,统计极端值
+94_features,385,0,1,Conju-Branch-Ratio,统计极端值
+94_features,392,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,395,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,439,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,440,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,446,0,1,Conju-Branch-Ratio,统计极端值
+94_features,459,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,466,0,1,Conju-Branch-Ratio,统计极端值
+94_features,467,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,468,0,1,Conju-Branch-Ratio,统计极端值
+94_features,486,0,1,PEOE-Charge-NegativeDisCoef-PairMean,统计极端值
+94_features,493,0,1,Conju-Branch-Ratio,统计极端值
+94_features,495,0,1,Conju-Branch-Ratio,统计极端值
+94_features,508,0,1,Conju-Branch-Ratio,统计极端值
+94_features,514,0,1,PEOE-Charge-NegativeDisCoef-PairMean,统计极端值
+94_features,516,0,1,Conju-Branch-Ratio,统计极端值
+94_features,521,0,1,Atomic-MR-PositiveDisCoef,统计极端值
+94_features,552,0,1,Conju-Branch-Ratio,统计极端值
+94_features,568,0,1,Conju-Branch-Ratio,统计极端值
+94_features,569,0,1,Conju-Branch-Ratio,统计极端值
+94_features,571,0,1,Conju-Branch-Ratio,统计极端值
+94_features,584,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,586,0,1,ALL_FEATURES,整行数据与其他样本完全重复
+94_features,615,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,617,0,1,EState-Indice-Weighted-Ave,统计极端值
+94_features,630,0,1,ALL_FEATURES,整行数据与其他样本完全重复
+94_features,642,0,1,ET(30) (Solvent),溶剂参数为0，可能代表未知或缺失溶剂信息
+94_features,665,0,1,Atomic-LogP-PositiveDisCoef,统计极端值
+94_features,669,0,1,Conju-Branch-Ratio,统计极端值
+94_features,673,0,1,Atomic-LogP-Min,统计极端值
+94_features,714,0,1,PEOE-Charge-PositiveDisCoef,统计极端值
+94_features,734,0,1,Conju-Branch-Ratio,统计极端值
+94_features,735,0,1,Conju-Branch-Ratio,统计极端值
+94_features,736,0,1,Conju-Branch-Ratio,统计极端值
+94_features,738,0,1,Atomic-LogP-Min,统计极端值
+94_features,739,0,1,Atomic-LogP-Min,统计极端值
+94_features,740,0,1,Atomic-LogP-Min,统计极端值
+94_features,741,0,1,Atomic-LogP-Min,统计极端值
+94_features,742,0,1,Atomic-LogP-Min,统计极端值
+94_features,743,0,1,Atomic-LogP-Min,统计极端值
+94_features,823,0,1,Conju-Wt-Ave.1,统计极端值
+94_features,824,0,1,Conju-Wt-Ave.1,统计极端值
+94_features,825,0,1,Conju-Wt-Ave.1,统计极端值
+94_features,827,0,1,Conju-Wt-Ave.1,统计极端值
+94_features,828,0,1,Conju-Wt-Ave.1,统计极端值
+94_features,829,0,1,Conju-Wt-Ave.1,统计极端值
+94_features,852,0,1,Atomic-LogP-Min,统计极端值
+94_features,853,0,1,Atomic-LogP-Min,统计极端值
+94_features,854,0,1,ALL_FEATURES,整行数据与其他样本完全重复
